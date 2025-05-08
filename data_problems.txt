@@ -1,0 +1,2 @@
+Label kolona kako odrediti skok akcija, npr. ne dnevni skok bev povecanje cene akcija +/- koje ce trajati nekoliko dana i dovesce do znacajne korekcije cene
+- posto me zanima volume pattern da li treba da % promene cene,, odnosno label shiftujem jer trazim patern 3-5-7 dana pre skoka
