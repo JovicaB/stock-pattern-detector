@@ -15,3 +15,9 @@ Stock Pattern Detector is a machine learning model designed to predict the likel
 - The model uses stock volume data as the primary feature.
 - It identifies recurring patterns in volume activity that typically precede significant price movements.
 - The model is trained on historical volume data and predicts whether a stock is likely to experience a significant price change in the coming days.
+
+SECTOR: Healthcare
+INDUSTRY: Biotechnology & Pharmaceuticals 
+CAP SIZE: Medium ($2B-$10B), Small ($300M-$2B)
+REGION: North America, Europe
+EXCHANGE: NASDAQ, NYSE
